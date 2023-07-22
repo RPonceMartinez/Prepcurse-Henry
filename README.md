@@ -1,2 +1,1 @@
-# Prepcurse-Henry
-Este es un repositorio el mudolo 2 prepcurse de henry
+Este proyecto es prueba para clonar un repositorio a mi escritorio local desde github
